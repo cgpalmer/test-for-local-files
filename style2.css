@@ -76,3 +76,15 @@ header {
     background-color: black;
     color: white;
 }
+
+@media (min-width: 767px) {
+    #piclogo{
+        float: left;
+        height: 250px;
+    }
+
+    #topnav-right {
+        float: left;
+    }
+
+}
