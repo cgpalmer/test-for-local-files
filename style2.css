@@ -17,6 +17,7 @@ header {
     text-align: center;
     text-decoration: none;
     padding: 10px 10px;
+    position: fixed;
     }
 
 .piclogo{
@@ -30,6 +31,7 @@ header {
     margin-right: 20px;
     height: auto;
     line-height: 200px;   
+    position: fixed;
     }
 
 
