@@ -6,6 +6,7 @@
 header {
     background-color: black;
     height: 200px;
+    position: fixed;
     
 }
 
