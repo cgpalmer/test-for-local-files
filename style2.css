@@ -1,0 +1,78 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+header {
+    background-color: black;
+    height: 200px;
+    
+}
+
+.topnav a {
+    float: left;
+    color: #f8f8f8;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 10px;
+    }
+
+.piclogo{
+    height: 175px;
+}
+
+#topnav-right {
+    float: right; 
+    padding: 0px;
+    margin-bottom: 0;
+    margin-right: 20px;
+    height: auto;
+    line-height: 200px;   
+    }
+
+
+
+#topnav-right h2:hover {
+    text-decoration: underline;
+    font-size: 160%;
+    
+    }
+
+#section1{
+    background-color: grey;
+    height: 500px;
+}
+
+#hwlogo{
+    width: 250px;
+    height: auto;
+    background-color: inherit;
+    margin-left: 10px;
+
+}
+
+
+
+#section1 a{
+    text-decoration: none;
+    color: white;
+}
+
+#capital{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 200%;
+    margin-left: 5px;
+}
+
+#italics{
+    font-style: italic;
+    text-align: center;
+    font-size: 150%;
+    margin-left: 7px;
+}
+
+#footer{
+    background-color: black;
+    color: white;
+}
