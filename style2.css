@@ -85,6 +85,7 @@ header {
 
     #topnav-right {
         float: left;
+        width: 100%;
     }
 
 }
